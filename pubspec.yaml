@@ -1,7 +1,7 @@
 name: spotify_bottom_navi
-description: "Description here"
+description: "Spotify Bottom Navigation Bar"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+#repository: https://github.com/juneview-songdo/spotify_bottom_navi
 
 version: 1.0.0+1
 
